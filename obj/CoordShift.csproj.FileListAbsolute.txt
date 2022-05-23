@@ -1,0 +1,16 @@
+L:\yangyong\Projects\CoordShift\bin\Release\CoordShift.exe
+L:\yangyong\Projects\CoordShift\bin\Release\CoordShift.pdb
+L:\yangyong\Projects\CoordShift\obj\Release\ResolveAssemblyReference.cache
+L:\yangyong\Projects\CoordShift\obj\Release\CoordShift.MainForm.resources
+L:\yangyong\Projects\CoordShift\obj\Release\CoordShift.Properties.Resources.resources
+L:\yangyong\Projects\CoordShift\obj\Release\CoordShift.csproj.GenerateResource.Cache
+L:\yangyong\Projects\CoordShift\obj\Release\CoordShift.exe
+L:\yangyong\Projects\CoordShift\obj\Release\CoordShift.pdb
+D:\我的文档\CoordShift 20110719\obj\Release\CoordShift.exe
+D:\我的文档\CoordShift 20110719\obj\Release\CoordShift.pdb
+D:\我的文档\CoordShift 20110719\bin\Release\CoordShift.exe
+D:\我的文档\CoordShift 20110719\bin\Release\CoordShift.pdb
+D:\我的文档\CoordShift 20110719\obj\Release\ResolveAssemblyReference.cache
+D:\我的文档\CoordShift 20110719\obj\Release\CoordShift.MainForm.resources
+D:\我的文档\CoordShift 20110719\obj\Release\CoordShift.Properties.Resources.resources
+D:\我的文档\CoordShift 20110719\obj\Release\CoordShift.csproj.GenerateResource.Cache
